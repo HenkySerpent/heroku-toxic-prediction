@@ -1,0 +1,10 @@
+fastapi==0.75.2
+keras==2.8.0
+keras_nightly==2.5.0.dev2021032900
+numpy==1.19.5
+pandas==1.4.2
+tensorflow==2.5.0rc1
+uvicorn==0.12.3
+aiofiles==0.6.0
+python-multipart==0.0.5
+jinja2==2.11.2
