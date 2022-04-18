@@ -1,7 +1,7 @@
 fastapi==0.75.2
 keras==2.8.0
 keras_nightly==2.5.0.dev2021032900
-numpy==1.19.5
+numpy==1.21.0
 pandas==1.4.2
 tensorflow==2.8.0
 uvicorn==0.12.3
